@@ -1,0 +1,2 @@
+If you input a subset (not necessarily a subcomplex) of a simplicial complex, this program constructs the smallest simplicial complex containing it, generates the boundary and coboundary matrices, and transforms them into Smith normal form (a kind of diagonal matrix).  Please read the code and try to figure out how to use it.  
+If you can’t—or don’t want to—read my messy code and you know me personally, feel free to ask me about it.
